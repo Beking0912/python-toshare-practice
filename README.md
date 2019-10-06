@@ -1,4 +1,4 @@
-# python-toshare-practice
+# python_toshare_practice
 基于toshare的机器量化分析
 
 ### ex01
